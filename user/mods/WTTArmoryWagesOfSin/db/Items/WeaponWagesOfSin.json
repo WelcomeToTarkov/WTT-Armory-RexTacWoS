@@ -9,12 +9,12 @@
                 "path": "WeaponWagesOfSin/weapon_wages_of_sin_red_container.bundle",
                 "rcid": ""
             },
-			"Weight": 0.212621,
-			"Recoil": -3,
-			"Ergonomics": 52,
-			"HeatFactor": 0.993,
-			"CoolFactor": 1,
-			"DurabilityBurnModificator": 0.95,
+            "Weight": 0.212621,
+            "Recoil": -3,
+            "Ergonomics": 52,
+            "HeatFactor": 0.993,
+            "CoolFactor": 1,
+            "DurabilityBurnModificator": 0.95,
             "Slots": [
                 {
                     "_id": "6769ba742b86d51d6aa850cd",
@@ -204,7 +204,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 135000,
-		"handbookPriceRoubles": 32000,
+        "handbookPriceRoubles": 32000,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -328,9 +328,9 @@
                 "rcid": ""
             },
             "Weight": 0.063,
-			"Ergonomics": 2,
-			"Recoil": -2,
-			"DurabilityBurnModificator": 0.98,
+            "Ergonomics": 2,
+            "Recoil": -2,
+            "DurabilityBurnModificator": 0.98,
             "Slots": [
                 {
                     "_name": "mod_stock_000",
@@ -583,9 +583,9 @@
             ],
             "ExaminedByDefault": true,
             "Recoil": -1,
-			"HeatFactor": 0.985,
-			"CoolFactor": 1.055,
-			"Ergonomics": 9
+            "HeatFactor": 0.985,
+            "CoolFactor": 1.055,
+            "Ergonomics": 9
         },
         "locales": {
             "en": {
@@ -603,7 +603,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 32800,
-		"handbookPriceRoubles": 16900,
+        "handbookPriceRoubles": 16900,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -621,12 +621,12 @@
                 "rcid": ""
             },
             "ExaminedByDefault": true,
-			"Weight": 0.1879573,
-			"Recoil": -3,
-			"Ergonomics": 6,
-			"HeatFactor": 0.983,
-			"CoolFactor": 1.013,
-			"DurabilityBurnModificator": 0.95,
+            "Weight": 0.1879573,
+            "Recoil": -3,
+            "Ergonomics": 6,
+            "HeatFactor": 0.983,
+            "CoolFactor": 1.013,
+            "DurabilityBurnModificator": 0.95,
             "Slots": [
                 {
                     "_id": "6769bce191427dba76591b0b",
@@ -849,11 +849,11 @@
             "Slots": [],
             "ExaminedByDefault": true,
             "Recoil": -7,
-			"Ergonomics": -1,
-			"DurabilityBurnModificator": 0.90,
-			"HeatFactor": 0.99,
-			"CoolFactor": 1.055,
-			"Weight": 0.100
+            "Ergonomics": -1,
+            "DurabilityBurnModificator": 0.90,
+            "HeatFactor": 0.99,
+            "CoolFactor": 1.055,
+            "Weight": 0.100
         },
         "locales": {
             "en": {
@@ -871,7 +871,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 54000,
-		"handbookPriceRoubles": 9350,
+        "handbookPriceRoubles": 9350,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -907,7 +907,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 27000,
-		"handbookPriceRoubles": 6500,
+        "handbookPriceRoubles": 6500,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -926,8 +926,11 @@
                 "rcid": ""
             },
             "Weight": 0.1,
-			"Ergonomics": 15,
-			"Recoil": -22
+            "Ergonomics": 15,
+            "Recoil": -22,
+            "ConflictingItems": [
+                "5a33e75ac4a2826c6e06d759"
+            ]
         },
         "locales": {
             "en": {
@@ -944,8 +947,8 @@
         ],
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
-    	"fleaPriceRoubles": 54000,
-		"handbookPriceRoubles": 18000,
+        "fleaPriceRoubles": 54000,
+        "handbookPriceRoubles": 18000,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -964,7 +967,7 @@
             },
             "ExaminedByDefault": true,
             "Weight": "0.40",
-			"Ergonomics": "4"
+            "Ergonomics": "4"
         },
         "locales": {
             "en": {
@@ -990,7 +993,7 @@
         "traders": {},
         "StaticLootContainers": []
     },
-      "676b4e2ff185a450a0b300b4": {
+    "676b4e2ff185a450a0b300b4": {
         "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
         "parentId": "5447b5f14bdc2d61278b4567",
         "handbookParentId": "5b5f78fc86f77409407a7f90",
@@ -1001,11 +1004,11 @@
                 "rcid": ""
             },
             "Weight": 0.212621,
-			"Recoil": -3,
-			"Ergonomics": 52,
-			"HeatFactor": 0.993,
-			"CoolFactor": 1,
-			"DurabilityBurnModificator": 0.95,
+            "Recoil": -3,
+            "Ergonomics": 52,
+            "HeatFactor": 0.993,
+            "CoolFactor": 1,
+            "DurabilityBurnModificator": 0.95,
             "Slots": [
                 {
                     "_id": "676b4eb4916929c2f13d45f0",
@@ -1195,7 +1198,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 135000,
-		"handbookPriceRoubles": 32000,
+        "handbookPriceRoubles": 32000,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -1319,9 +1322,9 @@
                 "rcid": ""
             },
             "Weight": 0.063,
-			"Ergonomics": 2,
-			"Recoil": -2,
-			"DurabilityBurnModificator": 0.98,
+            "Ergonomics": 2,
+            "Recoil": -2,
+            "DurabilityBurnModificator": 0.98,
             "Slots": [
                 {
                     "_name": "mod_stock_000",
@@ -1574,9 +1577,9 @@
             ],
             "ExaminedByDefault": true,
             "Recoil": -1,
-			"HeatFactor": 0.985,
-			"CoolFactor": 1.055,
-			"Ergonomics": 9
+            "HeatFactor": 0.985,
+            "CoolFactor": 1.055,
+            "Ergonomics": 9
         },
         "locales": {
             "en": {
@@ -1594,7 +1597,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 32800,
-		"handbookPriceRoubles": 16900,
+        "handbookPriceRoubles": 16900,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -1613,11 +1616,11 @@
             },
             "ExaminedByDefault": true,
             "Weight": 0.1879573,
-			"Recoil": -3,
-			"Ergonomics": 6,
-			"HeatFactor": 0.983,
-			"CoolFactor": 1.013,
-			"DurabilityBurnModificator": 0.95,
+            "Recoil": -3,
+            "Ergonomics": 6,
+            "HeatFactor": 0.983,
+            "CoolFactor": 1.013,
+            "DurabilityBurnModificator": 0.95,
             "Slots": [
                 {
                     "_id": "676b5147ea8296ee8db3a28c",
@@ -1840,11 +1843,11 @@
             "Slots": [],
             "ExaminedByDefault": true,
             "Recoil": -7,
-			"Ergonomics": -1,
-			"DurabilityBurnModificator": 0.90,
-			"HeatFactor": 0.99,
-			"CoolFactor": 1.055,
-			"Weight": 0.100
+            "Ergonomics": -1,
+            "DurabilityBurnModificator": 0.90,
+            "HeatFactor": 0.99,
+            "CoolFactor": 1.055,
+            "Weight": 0.100
         },
         "locales": {
             "en": {
@@ -1862,7 +1865,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 54000,
-		"handbookPriceRoubles": 9350,
+        "handbookPriceRoubles": 9350,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -1898,7 +1901,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 27000,
-		"handbookPriceRoubles": 6500,
+        "handbookPriceRoubles": 6500,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -1917,8 +1920,11 @@
                 "rcid": ""
             },
             "Weight": 0.1,
-			"Ergonomics": 15,
-			"Recoil": -22
+            "Ergonomics": 15,
+            "Recoil": -22,
+            "ConflictingItems": [
+                "5a33e75ac4a2826c6e06d759"
+            ]
         },
         "locales": {
             "en": {
@@ -1936,7 +1942,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 54000,
-		"handbookPriceRoubles": 18000,
+        "handbookPriceRoubles": 18000,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -1955,7 +1961,7 @@
             },
             "ExaminedByDefault": true,
             "Weight": "0.40",
-			"Ergonomics": "4"
+            "Ergonomics": "4"
         },
         "locales": {
             "en": {
@@ -1992,11 +1998,11 @@
                 "rcid": ""
             },
             "Weight": 0.212621,
-			"Recoil": -3,
-			"Ergonomics": 52,
-			"HeatFactor": 0.993,
-			"CoolFactor": 1,
-			"DurabilityBurnModificator": 0.95,
+            "Recoil": -3,
+            "Ergonomics": 52,
+            "HeatFactor": 0.993,
+            "CoolFactor": 1,
+            "DurabilityBurnModificator": 0.95,
             "Slots": [
                 {
                     "_id": "676c3ce7163ab0bc8f39f08a",
@@ -2186,7 +2192,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 135000,
-		"handbookPriceRoubles": 32000,
+        "handbookPriceRoubles": 32000,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -2476,9 +2482,9 @@
             ],
             "ExaminedByDefault": true,
             "Recoil": -1,
-			"HeatFactor": 0.985,
-			"CoolFactor": 1.055,
-			"Ergonomics": 9
+            "HeatFactor": 0.985,
+            "CoolFactor": 1.055,
+            "Ergonomics": 9
         },
         "locales": {
             "en": {
@@ -2496,7 +2502,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 32800,
-		"handbookPriceRoubles": 16900,
+        "handbookPriceRoubles": 16900,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -2516,11 +2522,11 @@
             "Slots": [],
             "ExaminedByDefault": true,
             "Recoil": -7,
-			"Ergonomics": -1,
-			"DurabilityBurnModificator": 0.90,
-			"HeatFactor": 0.99,
-			"CoolFactor": 1.055,
-			"Weight": 0.100
+            "Ergonomics": -1,
+            "DurabilityBurnModificator": 0.90,
+            "HeatFactor": 0.99,
+            "CoolFactor": 1.055,
+            "Weight": 0.100
         },
         "locales": {
             "en": {
@@ -2538,7 +2544,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 54000,
-		"handbookPriceRoubles": 9350,
+        "handbookPriceRoubles": 9350,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -2574,7 +2580,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 27000,
-		"handbookPriceRoubles": 6500,
+        "handbookPriceRoubles": 6500,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -2593,8 +2599,11 @@
                 "rcid": ""
             },
             "Weight": 0.1,
-			"Ergonomics": 15,
-			"Recoil": -22
+            "Ergonomics": 15,
+            "Recoil": -22,
+            "ConflictingItems": [
+                "5a33e75ac4a2826c6e06d759"
+            ]
         },
         "locales": {
             "en": {
@@ -2612,7 +2621,7 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 54000,
-		"handbookPriceRoubles": 18000,
+        "handbookPriceRoubles": 18000,
         "addtoTraders": false,
         "addtoBots": false,
         "addtoStaticLootContainers": false,
@@ -2631,7 +2640,7 @@
             },
             "ExaminedByDefault": true,
             "Weight": "0.40",
-			"Ergonomics": "4"
+            "Ergonomics": "4"
         },
         "locales": {
             "en": {
